@@ -34,10 +34,9 @@ No se requieren instalaciones adicionales.
 
 ---
 
-## 🌐 Demo
+## 🌐 URL
 
-> ⚠️ Actualmente la demo está en entorno local  
-`http://127.0.0.1:5500/index.html`
+https://challenge-amigo-secreto-ruddy.vercel.app/
 
 ---
 
